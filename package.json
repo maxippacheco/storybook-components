@@ -72,6 +72,7 @@
     "@storybook/testing-library": "^0.0.9",
     "babel-loader": "^8.2.3",
     "chromatic": "^6.5.1",
+    "copyfiles": "^2.4.1",
     "semantic-release": "^19.0.2"
   },
   "plugins": [
@@ -82,5 +83,4 @@
     "@semantic-release/npm",
     "@semantic-release/git"
   ]
-
 }
